@@ -30,6 +30,19 @@ body {
         #fdeff9 100%
     );
     padding: 40px 60px;
+    border-radius: 0.25rem;
+}
+
+.menu {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.menu h2,
+.container > h2 {
+    font-size: 2rem;
 }
 
 h2 {
@@ -60,6 +73,7 @@ h2 {
     font-size: 3rem;
     transform: rotateY(180deg);
     transition: all 0.25s;
+    border-radius: 0.25rem;
 }
 
 .item::after {
@@ -70,6 +84,7 @@ h2 {
     transition: all 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
+    border-radius: 0.25rem;
 }
 
 .item.boxOpen {
@@ -92,6 +107,7 @@ h2 {
     letter-spacing: 0.2rem;
     text-transform: uppercase;
     cursor: pointer;
+    border-radius: 0.25rem;
 }
 
 .reset:focus {

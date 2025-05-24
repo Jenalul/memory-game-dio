@@ -1,6 +1,6 @@
 # Memory Game
 
-O **Memory Game** é uma implementação digital do clássico jogo de memória, onde o objetivo é encontrar os pares de cartas correspondentes. O jogador deve clicar nas cartas para virá-las e tentar lembrar onde estão as cartas correspondentes. O jogo é desenvolvido utilizando **HTML**, **CSS** e **JavaScript**.
+O **Memory Game** é uma implementação digital do clássico jogo de memória, onde o objetivo é encontrar os pares de cartas correspondentes. O jogador deve clicar nas cartas para virá-las e tentar lembrar onde estão as cartas correspondentes. O jogo é desenvolvido utilizando **HTML**, **CSS** e **JavaScript**. Este também é um projeto desenvolvido com o apoio da [DIO.me](https://dio.me).
 
 ## Regras
 - As cartas começam viradas para baixo.

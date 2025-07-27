@@ -21,13 +21,13 @@ Virar todas as cartas rapidamente e com o menor número de tentativas erradas, d
 
 Você pode acessar o código-fonte do projeto no GitHub:
 
-[Repositório Memory Game](https://github.com/JenaCarry/memory-game)
+[Repositório Memory Game](https://github.com/Jenalul/memory-game-dio)
 
 ### Versão Online (Live)
 
 Para testar o jogo sem precisar baixar o código, basta acessar a versão ao vivo:
 
-[Memory Game - Jogo Online](https://jenacarry.github.io/memory-game/)
+[Memory Game - Jogo Online](https://jenalul.github.io/memory-game-dio/)
 
 ---
 
@@ -35,4 +35,4 @@ Para testar o jogo sem precisar baixar o código, basta acessar a versão ao viv
 
 1. **Clonar o repositório**:
    ```bash
-   git clone https://github.com/JenaCarry/memory-game.git
+   git clone https://github.com/Jenalul/memory-game-dio.git
